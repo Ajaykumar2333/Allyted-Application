@@ -1,0 +1,118 @@
+[21-Jul-2025 14:13:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:43
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_templates.php(43): mysqli->query('SELECT id, Temp...')
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 43
+[21-Jul-2025 14:13:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:43
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_templates.php(43): mysqli->query('SELECT id, Temp...')
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 43
+[21-Jul-2025 21:46:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Property access is not allowed yet in C:\xampp\htdocs\Allyted Project\admin\add_employee.php:222
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\admin\add_employee.php on line 222
+[21-Jul-2025 21:47:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Property access is not allowed yet in C:\xampp\htdocs\Allyted Project\admin\add_employee.php:222
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\admin\add_employee.php on line 222
+[21-Jul-2025 21:49:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Property access is not allowed yet in C:\xampp\htdocs\Allyted Project\admin\add_employee.php:222
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\admin\add_employee.php on line 222
+[21-Jul-2025 21:57:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Property access is not allowed yet in C:\xampp\htdocs\Allyted Project\admin\add_employee.php:222
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\admin\add_employee.php on line 222
+[21-Jul-2025 22:04:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Property access is not allowed yet in C:\xampp\htdocs\Allyted Project\admin\add_employee.php:222
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\admin\add_employee.php on line 222
+[22-Jul-2025 20:40:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:807
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 807
+[22-Jul-2025 20:40:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:807
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 807
+[22-Jul-2025 20:40:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:807
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 807
+[22-Jul-2025 20:40:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:807
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 807
+[22-Jul-2025 20:40:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:807
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 807
+[22-Jul-2025 20:40:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:807
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 807
+[22-Jul-2025 20:40:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:807
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 807
+[22-Jul-2025 20:45:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:808
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 808
+[22-Jul-2025 20:54:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "rowCount" in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:848
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 848
+[25-Jul-2025 13:04:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:209
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 209
+[25-Jul-2025 13:28:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:209
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 209
+[26-Jul-2025 07:37:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\xampp\htdocs\Allyted Project\admin\add_employee.php:103
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\admin\add_employee.php(121): generateEmployeeID(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\admin\add_employee.php on line 103
+[26-Jul-2025 07:54:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'SNO' in 'field list' in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:105
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_templates.php(105): mysqli->prepare('SELECT SNO, Tem...')
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 105
+[26-Jul-2025 08:10:40 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:307
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_templates.php(307): mysqli_stmt->bind_param('siisiiisiisiii', 'Template_hyd', 14, 17, 'AS0045', 14, 18, 'AS0046', 14, 17, 'AS0045', 14, 18, 'AS0046')
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 307
+[26-Jul-2025 08:13:28 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:307
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_templates.php(307): mysqli_stmt->bind_param('siisiiisiisiii', 'Template_hyd', 14, 17, 'AS0045', NULL, NULL, NULL, 14, 17, 'AS0045', NULL, NULL, NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 307
+[26-Jul-2025 08:33:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'SNO' in 'field list' in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:105
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_templates.php(105): mysqli->prepare('SELECT SNO, Tem...')
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 105
+[26-Jul-2025 08:33:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'SNO' in 'field list' in C:\xampp\htdocs\Allyted Project\includes\content_templates.php:105
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_templates.php(105): mysqli->prepare('SELECT SNO, Tem...')
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(185): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_templates.php on line 105

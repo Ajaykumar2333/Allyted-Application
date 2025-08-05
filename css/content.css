@@ -1,0 +1,286 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    position: relative;
+    min-height: 50px; /* Ensure header has a fixed minimum height to prevent shifting */
+    overflow: visible; /* Popups can overflow */
+}
+.header h2 {
+    font-size: 24px; /* Match Employees heading */
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #000000; /* Black text */
+    position: relative;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.header h2::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: #0656ad;
+    border-radius: 2px;
+}
+.add-btn {
+    padding: 10px 20px;
+    background: #0656ad;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: background 0.2s;
+}
+.add-btn:hover {
+    background: #0056b3;
+}
+.modal, .delete-modal, .dependency-modal {
+    display: none;
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+.modal-content, .delete-modal-content, .dependency-modal-content {
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    border: 1px solid #e0e0e0;
+    text-align: center;
+    position: relative;
+}
+.dependency-modal-content h3 {
+    color: #dc3545;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.dependency-modal-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.modal-content input, .modal-content select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #f9f9f9;
+    outline: none;
+    font-size: 15px;
+    transition: border-color 0.2s;
+}
+.modal-content input:focus, .modal-content select:focus {
+    border-color: #0656ad;
+}
+.modal-content .close, .delete-modal-content .close, .dependency-modal-content .close {
+    position: absolute;
+    top: -8px;
+    right: 4px;
+    font-size: 22px;
+    cursor: pointer;
+    color: #333;
+}
+.modal-content button[type="submit"] {
+    background: #0656ad;
+    padding: 10px 18px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background 0.2s;
+}
+.modal-content button[type="submit"]:hover {
+    background: #218838;
+}
+.delete-modal-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.delete-modal-content .btn-cancel, .delete-modal-content .btn-delete,
+.dependency-modal-content .btn-cancel, .dependency-modal-content .btn-action {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0 10px;
+}
+.delete-modal-content .btn-cancel, .dependency-modal-content .btn-cancel {
+    background: #6c757d;
+    color: white;
+}
+.delete-modal-content .btn-cancel:hover, .dependency-modal-content .btn-cancel:hover {
+    background: #5a6268;
+}
+.delete-modal-content .btn-delete {
+    background: #dc3545;
+    color: white;
+}
+.delete-modal-content .btn-delete:hover {
+    background: #c82333;
+}
+.dependency-modal-content .btn-action {
+    background: #0656ad;
+    color: white;
+}
+.dependency-modal-content .btn-action:hover {
+    background: #0056b3;
+}
+.success-popup, .error-popup {
+    position: absolute;
+    top: -50px; /* Above header */
+    right: 0;
+    padding: 8px 20px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    z-index: 1000;
+    font-size: 13px;
+    font-weight: 600;
+    max-width: 200px;
+    animation: slideDown 1s ease-out, fadeOut 10s forwards;
+}
+.success-popup {
+    background: #28a745;
+    color: white;
+}
+.error-popup {
+    background: #dc3545;
+    color: white;
+}
+.close-popup {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+.progress-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background: rgba(255,255,255,0.8);
+    animation: progress 5s linear forwards;
+}
+@keyframes slideDown {
+    from { transform: translateY(-20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+@keyframes fadeOut {
+    0% { opacity: 1; }
+    94% { opacity: 1; }
+    100% { opacity: 0; display: none; }
+}
+@keyframes progress {
+    from { width: 0; }
+    to { width: 100%; }
+}
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #e9ecef;
+}
+th {
+    background: #2f3640;
+    color: white;
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+td {
+    font-size: 14px;
+    color: #333;
+}
+tr:hover {
+    background: #f1f3f5;
+    transition: background 0.2s;
+}
+.actions i {
+    margin-right: 12px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.actions i.fa-edit {
+    color: #0656ad;
+}
+.actions i.fa-trash-alt {
+    color: #dc3545;
+}
+tfoot {
+    background: #f8f9fa;
+}
+.pagination {
+    padding: 4px 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+.pagination a {
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    text-decoration: none;
+    color: #0656ad;
+    border-radius: 50%;
+    font-weight: 500;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.pagination a:hover {
+    background: #0656ad;
+    color: white;
+}
+.pagination a.active {
+    background: #0656ad;
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.pagination a.prev, .pagination a.next {
+    width: auto;
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid #0656ad;
+}
+.pagination a.prev:hover, .pagination a.next:hover {
+    background: #0656ad;
+    color: white;
+}

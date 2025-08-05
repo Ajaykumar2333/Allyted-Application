@@ -1,0 +1,2552 @@
+Form Submission Started: 2025-06-11 13:43:35
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:43:42
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:43:43
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:43:43
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:43:43
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:43:43
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:43:44
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:43:44
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 10
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => BTECH
+    [specialization] => Finance
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:47:28
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543218
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2021
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:47:35
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543218
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2021
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:47:36
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543218
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2021
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:47:36
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543218
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2021
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 13:47:37
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543218
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-19
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 18
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2021
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-11 14:17:33
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-27
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 19
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123."}
+Form Submission Started: 2025-06-11 14:17:34
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-27
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 19
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:17:37
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-27
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 19
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:17:38
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-27
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 19
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:17:38
+Form Data: Array
+(
+    [first_name] => Surya 
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Kukatpally
+    [date_of_joining] => 2025-06-27
+    [employee_id] => 2
+    [location_id] => 20
+    [department_id] => 14
+    [role_id] => 19
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 3
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:33:34
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:33:57
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:33:58
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:33:58
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:33:59
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:33:59
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:03
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:03
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:04
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:04
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:04
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:04
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:05
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:12
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-11 14:34:29
+Form Data: Array
+(
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9267827648
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [employee_id] => 19
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2023
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 4
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!"}
+Form Submission Started: 2025-06-12 02:58:21
+Form Data: Array
+(
+    [first_name] => Ajay
+    [last_name] => Kumar
+    [email_id] => vodlaajay234@gmail.com
+    [phone_number] => 9346175460
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-07-16
+    [employee_id] => EMP23
+    [location_id] => 21
+    [department_id] => 14
+    [role_id] => 17
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 2
+    [touch] => Yes
+    [asset_ref_id] => 1
+    [status] => Active
+)
+
+Validation failed: Missing required fields.
+Response: {"success":false,"message":"Please fill all required fields correctly!"}
+Form Submission Started: 2025-06-12 03:02:35
+Form Data: Array
+(
+    [employee_id] => EMP234
+    [first_name] => Ajay
+    [last_name] => Kumar
+    [email_id] => vodlaajay234@gmail.com
+    [phone_number] => 9346175460
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [location_id] => 21
+    [department_id] => 14
+    [role_id] => 17
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 2
+    [touch] => Yes
+    [asset_ref_id] => 1
+    [status] => Active
+)
+
+Validation failed: Bond is required
+Response: {"success":false,"message":"Please fill all required fields correctly!","missing_fields":["Bond is required"]}
+Form Submission Started: 2025-06-12 03:07:47
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => Ajay
+    [last_name] => Kumar
+    [email_id] => vodlaajay234@gmail.com
+    [phone_number] => 9876543212
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-27
+    [location_id] => 21
+    [department_id] => 16
+    [role_id] => 20
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 2
+    [touch] => Yes
+    [asset_ref_id] => 1
+    [status] => Active
+)
+
+Validation failed: Bond is required
+Response: {"success":false,"message":"Please fill all required fields correctly!","missing_fields":["Bond is required"]}
+Form Submission Started: 2025-06-12 03:08:17
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => Ajay
+    [last_name] => Kumar
+    [email_id] => vodlaajay234@gmail.com
+    [phone_number] => 9876543212
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-27
+    [location_id] => 21
+    [department_id] => 16
+    [role_id] => 20
+    [experience] => 3
+    [bond] => 1
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 2
+    [touch] => Yes
+    [asset_ref_id] => 1
+    [status] => Active
+)
+
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Form Submission Started: 2025-06-12 04:59:30
+Form Data: Array
+(
+    [employee_id] => 1
+    [first_name] => Ajay
+    [last_name] => Kumar
+    [email_id] => vodlaajay234@gmail.com
+    [phone_number] => 9876543212
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-19
+    [location_id] => 21
+    [department_id] => 14
+    [role_id] => 17
+    [experience] => 3
+    [bond] => 1
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 2
+    [touch] => Yes
+    [asset_ref_id] => 1
+    [status] => Active
+)
+
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Form Submission Started: 2025-06-12 05:12:40
+Form Data: Array
+(
+    [employee_id] => 3
+    [first_name] => Surya
+    [last_name] => Agaram
+    [email_id] => suryak@allyted.com
+    [phone_number] => 9346175460
+    [city] => Hyderabad
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [location_id] => 20
+    [department_id] => 16
+    [role_id] => 20
+    [experience] => 3
+    [bond] => 1
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 2
+    [status] => Active
+)
+
+Transaction committed successfully
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Form Submission Started: 2025-06-12 05:16:35
+Form Data: Array
+(
+    [employee_id] => 2
+    [first_name] => Ajay
+    [last_name] => Kumar
+    [email_id] => vodlaajay234@gmail.com
+    [phone_number] => 9876543212
+    [city] => Hyderabad
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-13
+    [location_id] => 21
+    [department_id] => 14
+    [role_id] => 17
+    [experience] => 3
+    [bond] => 2
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 2
+    [touch] => Yes
+    [asset_ref_id] => 1
+    [status] => Active
+)
+
+Transaction committed successfully
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Form Submission Started: 2025-06-12 08:14:27
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9346175460
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 12
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 0
+    [touch] => 
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Validation failed: Bond is required
+Response: {"success":false,"message":"Please fill all required fields correctly!","missing_fields":["Bond is required"]}
+Form Submission Started: 2025-06-12 08:14:36
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9346175460
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 12
+    [experience] => 3
+    [bond] => 1
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 0
+    [touch] => 
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Phone Number is already in use!","missing_fields":[]}
+Form Submission Started: 2025-06-12 08:15:03
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => charan
+    [last_name] => Yadav
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9356819637
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-20
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 12
+    [experience] => 3
+    [bond] => 1
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 0
+    [touch] => 
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Error: Column 'brand_id' cannot be null
+Response: {"success":false,"message":"Server error: Column 'brand_id' cannot be null","missing_fields":[]}
+Form Submission Started: 2025-06-12 08:28:05
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => charan
+    [last_name] => Kumar
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9456453456
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-25
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 12
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 0
+    [touch] => 
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Error: Column 'brand_id' cannot be null
+Response: {"success":false,"message":"Server error: Column 'brand_id' cannot be null","missing_fields":[]}
+Form Submission Started: 2025-06-12 08:28:13
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => charan
+    [last_name] => Kumar
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9456453456
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-25
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 12
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => 
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Error: Column 'touch' cannot be null
+Response: {"success":false,"message":"Server error: Column 'touch' cannot be null","missing_fields":[]}
+Form Submission Started: 2025-06-12 08:28:20
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => charan
+    [last_name] => Kumar
+    [email_id] => charan.allytedsolutions@gmail.com
+    [phone_number] => 9456453456
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-25
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 12
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Transaction committed successfully
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Form Submission Started: 2025-06-12 08:29:22
+Form Data: Array
+(
+    [employee_id] => 23
+    [first_name] => Sreeya
+    [last_name] => Kayithi
+    [email_id] => sreeyak@allyted.com
+    [phone_number] => 645358956
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-18
+    [location_id] => 21
+    [department_id] => 13
+    [role_id] => 10
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2022
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Transaction committed successfully
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Form Submission Started: 2025-06-12 09:33:14
+Form Data: Array
+(
+    [employee_id] => 05567
+    [first_name] => Daniel
+    [last_name] => Balaji
+    [email_id] => danielb@allyted.com
+    [phone_number] => 9849363006
+    [city] => Hyderabad
+    [staying_location] => Hyderabad
+    [date_of_joining] => 2019-07-16
+    [location_id] => 20
+    [department_id] => 15
+    [role_id] => 14
+    [experience] => 7
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => CSE
+    [year_of_pass] => 2017
+    [brand_id] => 2
+    [touch] => No
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Transaction committed successfully
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Form Submission Started: 2025-06-14 07:31:29
+Form Data: Array
+(
+    [employee_id] => 12
+    [first_name] => Muskaan
+    [last_name] => Khatoon
+    [email_id] => muskaank@allyted.com
+    [phone_number] => 8738926453
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-25
+    [location_id] => 21
+    [department_id] => 14
+    [role_id] => 17
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Response: {"success":false,"message":"Employee ID already exists!","missing_fields":[]}
+Form Submission Started: 2025-06-14 07:31:38
+Form Data: Array
+(
+    [employee_id] => 90
+    [first_name] => Muskaan
+    [last_name] => Khatoon
+    [email_id] => muskaank@allyted.com
+    [phone_number] => 8738926453
+    [city] => Mahabubnagar
+    [staying_location] => Mahabubnagar
+    [date_of_joining] => 2025-06-25
+    [location_id] => 21
+    [department_id] => 14
+    [role_id] => 17
+    [experience] => 3
+    [bond] => 0
+    [highest_degree] => Btech
+    [specialization] => EEE
+    [year_of_pass] => 2022
+    [brand_id] => 1
+    [touch] => Yes
+    [asset_ref_id] => 0
+    [status] => Active
+)
+
+Transaction committed successfully
+Response: {"success":true,"message":"Employee added successfully! Password is set to Allyted@123.","missing_fields":[]}
+Script started: 2025-06-30 07:05:38
+Pagination error: Unknown column 'status' in 'where clause' at 2025-06-30 07:05:38
+Script started: 2025-06-30 07:10:18
+Database test query successful: 2025-06-30 07:10:18
+Pagination error: Unknown column 'status' in 'where clause' at 2025-06-30 07:10:18
+Data retrieval error: Unknown column 'e.first_name' in 'field list' at 2025-06-30 07:10:18
+Script started: 2025-06-30 07:10:20
+Database test query successful: 2025-06-30 07:10:20
+Pagination error: Unknown column 'status' in 'where clause' at 2025-06-30 07:10:20
+Data retrieval error: Unknown column 'e.first_name' in 'field list' at 2025-06-30 07:10:20
+Script started: 2025-06-30 07:10:49
+Database test query successful: 2025-06-30 07:10:49
+Pagination error: Unknown column 'status' in 'where clause' at 2025-06-30 07:10:49
+Data retrieval error: Unknown column 'e.first_name' in 'field list' at 2025-06-30 07:10:49
+Script started: 2025-06-30 07:13:37
+Database test query successful: 2025-06-30 07:13:37
+Pagination error: Unknown column 'status' in 'where clause' at 2025-06-30 07:13:37
+Simplified data retrieval error: Unknown column 'first_name' in 'field list' at 2025-06-30 07:13:37
+Full data retrieval error: Unknown column 'e.first_name' in 'field list' at 2025-06-30 07:13:37
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:13:37
+Script started: 2025-06-30 07:23:09
+Database test query successful: 2025-06-30 07:23:09
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:23:09
+Script started: 2025-06-30 07:23:38
+Database test query successful: 2025-06-30 07:23:38
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:23:38
+Script started: 2025-06-30 07:23:39
+Database test query successful: 2025-06-30 07:23:39
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:23:39
+Script started: 2025-06-30 07:32:37
+Database test query successful: 2025-06-30 07:32:37
+Data retrieval error: Unknown column 'd.department_name' in 'field list' at 2025-06-30 07:32:37
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:32:37
+Script started: 2025-06-30 07:37:07
+Database test query successful: 2025-06-30 07:37:07
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:37:07
+Script started: 2025-06-30 07:41:55
+Database test query successful: 2025-06-30 07:41:55
+Status column type: enum('Active','Inactive') at 2025-06-30 07:41:55
+Attempting pagination query with status: Active at 2025-06-30 07:41:55
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:41:55
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:41:55
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:41:55
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:41:55
+Script started: 2025-06-30 07:41:59
+Database test query successful: 2025-06-30 07:41:59
+Status column type: enum('Active','Inactive') at 2025-06-30 07:41:59
+Attempting pagination query with status: Active at 2025-06-30 07:41:59
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:41:59
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:41:59
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:41:59
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:41:59
+Script started: 2025-06-30 07:41:59
+Database test query successful: 2025-06-30 07:41:59
+Status column type: enum('Active','Inactive') at 2025-06-30 07:41:59
+Attempting pagination query with status: Active at 2025-06-30 07:41:59
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:41:59
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:41:59
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:41:59
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:41:59
+Script started: 2025-06-30 07:41:59
+Database test query successful: 2025-06-30 07:41:59
+Status column type: enum('Active','Inactive') at 2025-06-30 07:41:59
+Attempting pagination query with status: Active at 2025-06-30 07:41:59
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:41:59
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:41:59
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:41:59
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:41:59
+Script started: 2025-06-30 07:42:00
+Database test query successful: 2025-06-30 07:42:00
+Status column type: enum('Active','Inactive') at 2025-06-30 07:42:00
+Attempting pagination query with status: Active at 2025-06-30 07:42:00
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:42:00
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:42:00
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:42:00
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:42:00
+Script started: 2025-06-30 07:42:02
+Database test query successful: 2025-06-30 07:42:02
+Status column type: enum('Active','Inactive') at 2025-06-30 07:42:02
+Attempting pagination query with status: Active at 2025-06-30 07:42:02
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:42:02
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:42:02
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:42:02
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:42:02
+Script started: 2025-06-30 07:42:13
+Database test query successful: 2025-06-30 07:42:13
+Status column type: enum('Active','Inactive') at 2025-06-30 07:42:13
+Attempting pagination query with status: Active at 2025-06-30 07:42:13
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:42:13
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:42:13
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:42:13
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:42:13
+Script started: 2025-06-30 07:46:25
+Database test query successful: 2025-06-30 07:46:25
+Status column type: enum('Active','Inactive') at 2025-06-30 07:46:25
+Attempting pagination query with status: Active at 2025-06-30 07:46:25
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 07:46:25
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 07:46:25
+Data retrieval successful, records fetched: 5 at 2025-06-30 07:46:25
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 07:46:25
+Script started: 2025-06-30 08:13:04
+Database test query successful: 2025-06-30 08:13:04
+Status column type: enum('Active','Inactive') at 2025-06-30 08:13:04
+Attempting pagination query with status: Active at 2025-06-30 08:13:04
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:13:04
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 08:13:04
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:13:04
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:13:04
+Script started: 2025-06-30 08:13:20
+Database test query successful: 2025-06-30 08:13:20
+Status column type: enum('Active','Inactive') at 2025-06-30 08:13:20
+Attempting pagination query with status: Active at 2025-06-30 08:13:20
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:13:20
+Attempting data retrieval query with status: Active, offset: 0, limit: 8 at 2025-06-30 08:13:20
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:13:20
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:13:20
+Script started: 2025-06-30 08:17:25
+Database test query successful: 2025-06-30 08:17:25
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:25
+Attempting pagination query with status: Active at 2025-06-30 08:17:25
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:25
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:25
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:25
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:25
+Script started: 2025-06-30 08:17:30
+Database test query successful: 2025-06-30 08:17:30
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:30
+Attempting pagination query with status: Active at 2025-06-30 08:17:30
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:30
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:30
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:30
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:30
+Script started: 2025-06-30 08:17:30
+Database test query successful: 2025-06-30 08:17:30
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:30
+Attempting pagination query with status: Active at 2025-06-30 08:17:30
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:30
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:30
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:30
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:30
+Script started: 2025-06-30 08:17:30
+Database test query successful: 2025-06-30 08:17:30
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:30
+Attempting pagination query with status: Active at 2025-06-30 08:17:30
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:30
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:30
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:30
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:30
+Script started: 2025-06-30 08:17:30
+Database test query successful: 2025-06-30 08:17:30
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:30
+Attempting pagination query with status: Active at 2025-06-30 08:17:30
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:30
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:30
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:30
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:30
+Script started: 2025-06-30 08:17:31
+Database test query successful: 2025-06-30 08:17:31
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:31
+Attempting pagination query with status: Active at 2025-06-30 08:17:31
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:31
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:31
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:31
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:31
+Script started: 2025-06-30 08:17:31
+Database test query successful: 2025-06-30 08:17:31
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:31
+Attempting pagination query with status: Active at 2025-06-30 08:17:31
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:31
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:31
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:31
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:31
+Script started: 2025-06-30 08:17:31
+Database test query successful: 2025-06-30 08:17:31
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:31
+Attempting pagination query with status: Active at 2025-06-30 08:17:31
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:31
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:31
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:31
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:31
+Script started: 2025-06-30 08:17:31
+Database test query successful: 2025-06-30 08:17:31
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:31
+Attempting pagination query with status: Active at 2025-06-30 08:17:31
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:31
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:31
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:31
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:31
+Script started: 2025-06-30 08:17:41
+Database test query successful: 2025-06-30 08:17:41
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:41
+Attempting pagination query with status: Inactive at 2025-06-30 08:17:41
+Pagination query successful, total records: 0, pages: 1 at 2025-06-30 08:17:41
+Attempting data retrieval query with status: Inactive, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:41
+Data retrieval successful, records fetched: 0 at 2025-06-30 08:17:41
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:41
+Script started: 2025-06-30 08:17:43
+Database test query successful: 2025-06-30 08:17:43
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:43
+Attempting pagination query with status: Active at 2025-06-30 08:17:43
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:43
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:43
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:43
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:43
+Script started: 2025-06-30 08:17:45
+Database test query successful: 2025-06-30 08:17:45
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:45
+Attempting pagination query with status: Active at 2025-06-30 08:17:45
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:45
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:45
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:45
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:45
+Script started: 2025-06-30 08:17:46
+Database test query successful: 2025-06-30 08:17:46
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:46
+Attempting pagination query with status: Active at 2025-06-30 08:17:46
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:46
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:46
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:46
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:46
+Script started: 2025-06-30 08:17:47
+Database test query successful: 2025-06-30 08:17:47
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:47
+Attempting pagination query with status: Active at 2025-06-30 08:17:47
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:47
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:47
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:47
+Script started: 2025-06-30 08:17:47
+Database test query successful: 2025-06-30 08:17:47
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:47
+Attempting pagination query with status: Active at 2025-06-30 08:17:47
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:47
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:47
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:47
+Script started: 2025-06-30 08:17:47
+Database test query successful: 2025-06-30 08:17:47
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:47
+Attempting pagination query with status: Active at 2025-06-30 08:17:47
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:47
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:47
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:47
+Script started: 2025-06-30 08:17:47
+Database test query successful: 2025-06-30 08:17:47
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:47
+Attempting pagination query with status: Active at 2025-06-30 08:17:47
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:47
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:47
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:47
+Script started: 2025-06-30 08:17:48
+Database test query successful: 2025-06-30 08:17:48
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:48
+Attempting pagination query with status: Active at 2025-06-30 08:17:48
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:48
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:48
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:48
+Script started: 2025-06-30 08:17:48
+Database test query successful: 2025-06-30 08:17:48
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:48
+Attempting pagination query with status: Active at 2025-06-30 08:17:48
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:48
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:48
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:48
+Script started: 2025-06-30 08:17:48
+Database test query successful: 2025-06-30 08:17:48
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:48
+Attempting pagination query with status: Active at 2025-06-30 08:17:48
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:48
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:48
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:48
+Script started: 2025-06-30 08:17:48
+Database test query successful: 2025-06-30 08:17:48
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:48
+Attempting pagination query with status: Active at 2025-06-30 08:17:48
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:48
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:48
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:48
+Script started: 2025-06-30 08:17:48
+Database test query successful: 2025-06-30 08:17:48
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:48
+Attempting pagination query with status: Active at 2025-06-30 08:17:48
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:48
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:48
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:48
+Script started: 2025-06-30 08:17:49
+Database test query successful: 2025-06-30 08:17:49
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:49
+Attempting pagination query with status: Active at 2025-06-30 08:17:49
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:49
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:49
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:49
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:49
+Script started: 2025-06-30 08:17:49
+Database test query successful: 2025-06-30 08:17:49
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:49
+Attempting pagination query with status: Active at 2025-06-30 08:17:49
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:49
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:49
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:49
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:49
+Script started: 2025-06-30 08:17:49
+Database test query successful: 2025-06-30 08:17:49
+Status column type: enum('Active','Inactive') at 2025-06-30 08:17:49
+Attempting pagination query with status: Active at 2025-06-30 08:17:49
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:17:49
+Attempting data retrieval query with status: Active, offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:17:49
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:17:49
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:17:49
+Script started: 2025-06-30 08:21:43
+Database test query successful: 2025-06-30 08:21:43
+Status column exists: Yes at 2025-06-30 08:21:43
+Status column type: enum('Active','Inactive') at 2025-06-30 08:21:43
+Attempting pagination query with status: Active at 2025-06-30 08:21:43
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:21:43
+Attempting data retrieval query with offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:21:43
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:21:43
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:21:43
+Script started: 2025-06-30 08:29:30
+Script started: 2025-06-30 08:29:44
+Database test query successful: 2025-06-30 08:29:44
+Status column exists: Yes at 2025-06-30 08:29:44
+Status column type: enum('Active','Inactive') at 2025-06-30 08:29:44
+Attempting pagination query with status: Active at 2025-06-30 08:29:44
+Pagination query successful, total records: 5, pages: 1 at 2025-06-30 08:29:44
+Attempting data retrieval query with offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:29:44
+Data retrieval successful, records fetched: 5 at 2025-06-30 08:29:44
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:29:44
+Script started: 2025-06-30 08:33:13
+Database test query successful: 2025-06-30 08:33:13
+Status column exists: Yes at 2025-06-30 08:33:13
+Status column type: enum('Active','Inactive') at 2025-06-30 08:33:13
+Attempting pagination query with status: Active at 2025-06-30 08:33:13
+Pagination query successful, total records: 0, pages: 1 at 2025-06-30 08:33:13
+Attempting data retrieval query with offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:33:13
+Data retrieval successful, records fetched: 0 at 2025-06-30 08:33:13
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:33:13
+Script started: 2025-06-30 08:34:14
+Database test query successful: 2025-06-30 08:34:14
+Status column exists: Yes at 2025-06-30 08:34:14
+Status column type: enum('Active','Inactive') at 2025-06-30 08:34:14
+Attempting pagination query with status: Active at 2025-06-30 08:34:14
+Pagination query successful, total records: 1, pages: 1 at 2025-06-30 08:34:14
+Attempting data retrieval query with offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:34:14
+Data retrieval successful, records fetched: 1 at 2025-06-30 08:34:14
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:34:14
+Script started: 2025-06-30 08:46:48
+Script started: 2025-06-30 08:46:55
+Database test query successful: 2025-06-30 08:46:55
+Status column exists: Yes at 2025-06-30 08:46:55
+Status column type: enum('Active','Inactive') at 2025-06-30 08:46:55
+Attempting pagination query with status: Active at 2025-06-30 08:46:55
+Pagination query successful, total records: 1, pages: 1 at 2025-06-30 08:46:55
+Attempting data retrieval query with offset: 0, limit: 8, use_status_filter: true at 2025-06-30 08:46:55
+Data retrieval successful, records fetched: 1 at 2025-06-30 08:46:55
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:46:55
+Script started: 2025-06-30 08:49:19
+Script started: 2025-06-30 08:55:07
+Database test query successful: 2025-06-30 08:55:07
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 08:55:07
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 08:55:07
+Attempting pagination query: SELECT COUNT(*) as total FROM employee_details at 2025-06-30 08:55:07
+Pagination query successful, total records: 1, pages: 1 at 2025-06-30 08:55:07
+Attempting data retrieval query with offset: 0, limit: 8 at 2025-06-30 08:55:07
+Data retrieval successful, records fetched: 1 at 2025-06-30 08:55:07
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 08:55:07
+Script started: 2025-06-30 09:01:29
+Database test query successful: 2025-06-30 09:01:29
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:29
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:29
+Attempting pagination query for tab: active at 2025-06-30 09:01:29
+Pagination query successful for tab: active, total records: 1, pages: 1 at 2025-06-30 09:01:29
+Attempting data retrieval query for tab: active, offset: 0, limit: 8 at 2025-06-30 09:01:29
+Data retrieval successful for tab: active, records fetched: 1 at 2025-06-30 09:01:29
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:29
+Script started: 2025-06-30 09:01:32
+Database test query successful: 2025-06-30 09:01:32
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:32
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:32
+Attempting pagination query for tab: inactive at 2025-06-30 09:01:32
+Pagination query successful for tab: inactive, total records: 0, pages: 1 at 2025-06-30 09:01:32
+Attempting data retrieval query for tab: inactive, offset: 0, limit: 8 at 2025-06-30 09:01:32
+Data retrieval successful for tab: inactive, records fetched: 0 at 2025-06-30 09:01:32
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:32
+Script started: 2025-06-30 09:01:33
+Database test query successful: 2025-06-30 09:01:33
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:33
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:33
+Attempting pagination query for tab: active at 2025-06-30 09:01:33
+Pagination query successful for tab: active, total records: 1, pages: 1 at 2025-06-30 09:01:33
+Attempting data retrieval query for tab: active, offset: 0, limit: 8 at 2025-06-30 09:01:33
+Data retrieval successful for tab: active, records fetched: 1 at 2025-06-30 09:01:33
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:33
+Script started: 2025-06-30 09:01:35
+Database test query successful: 2025-06-30 09:01:35
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:35
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:35
+Attempting pagination query for tab: inactive at 2025-06-30 09:01:35
+Pagination query successful for tab: inactive, total records: 0, pages: 1 at 2025-06-30 09:01:35
+Attempting data retrieval query for tab: inactive, offset: 0, limit: 8 at 2025-06-30 09:01:35
+Data retrieval successful for tab: inactive, records fetched: 0 at 2025-06-30 09:01:35
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:35
+Script started: 2025-06-30 09:01:37
+Database test query successful: 2025-06-30 09:01:37
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:37
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:37
+Attempting pagination query for tab: active at 2025-06-30 09:01:37
+Pagination query successful for tab: active, total records: 1, pages: 1 at 2025-06-30 09:01:37
+Attempting data retrieval query for tab: active, offset: 0, limit: 8 at 2025-06-30 09:01:37
+Data retrieval successful for tab: active, records fetched: 1 at 2025-06-30 09:01:37
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:37
+Script started: 2025-06-30 09:01:42
+Database test query successful: 2025-06-30 09:01:42
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:42
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:42
+Attempting pagination query for tab: inactive at 2025-06-30 09:01:42
+Pagination query successful for tab: inactive, total records: 0, pages: 1 at 2025-06-30 09:01:42
+Attempting data retrieval query for tab: inactive, offset: 0, limit: 8 at 2025-06-30 09:01:42
+Data retrieval successful for tab: inactive, records fetched: 0 at 2025-06-30 09:01:42
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:42
+Script started: 2025-06-30 09:01:44
+Database test query successful: 2025-06-30 09:01:44
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:44
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:44
+Attempting pagination query for tab: active at 2025-06-30 09:01:44
+Pagination query successful for tab: active, total records: 1, pages: 1 at 2025-06-30 09:01:44
+Attempting data retrieval query for tab: active, offset: 0, limit: 8 at 2025-06-30 09:01:44
+Data retrieval successful for tab: active, records fetched: 1 at 2025-06-30 09:01:44
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:44
+Script started: 2025-06-30 09:01:59
+Database test query successful: 2025-06-30 09:01:59
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:01:59
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:01:59
+Attempting pagination query for tab: inactive at 2025-06-30 09:01:59
+Pagination query successful for tab: inactive, total records: 0, pages: 1 at 2025-06-30 09:01:59
+Attempting data retrieval query for tab: inactive, offset: 0, limit: 8 at 2025-06-30 09:01:59
+Data retrieval successful for tab: inactive, records fetched: 0 at 2025-06-30 09:01:59
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:01:59
+Script started: 2025-06-30 09:05:48
+Database test query successful: 2025-06-30 09:05:48
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:05:48
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:05:48
+Attempting pagination query for tab: inactive at 2025-06-30 09:05:48
+Pagination query successful for tab: inactive, total records: 0, pages: 1 at 2025-06-30 09:05:48
+Attempting data retrieval query for tab: inactive, offset: 0, limit: 8 at 2025-06-30 09:05:48
+Data retrieval successful for tab: inactive, records fetched: 0 at 2025-06-30 09:05:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:05:48
+Script started: 2025-06-30 09:05:51
+Database test query successful: 2025-06-30 09:05:51
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:05:51
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:05:51
+Attempting pagination query for tab: active at 2025-06-30 09:05:51
+Pagination query successful for tab: active, total records: 1, pages: 1 at 2025-06-30 09:05:51
+Attempting data retrieval query for tab: active, offset: 0, limit: 8 at 2025-06-30 09:05:51
+Data retrieval successful for tab: active, records fetched: 1 at 2025-06-30 09:05:51
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:05:51
+Script started: 2025-06-30 09:05:52
+Database test query successful: 2025-06-30 09:05:52
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:05:52
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:05:52
+Attempting pagination query for tab: inactive at 2025-06-30 09:05:52
+Pagination query successful for tab: inactive, total records: 0, pages: 1 at 2025-06-30 09:05:52
+Attempting data retrieval query for tab: inactive, offset: 0, limit: 8 at 2025-06-30 09:05:52
+Data retrieval successful for tab: inactive, records fetched: 0 at 2025-06-30 09:05:52
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:05:52
+Script started: 2025-06-30 09:06:12
+Database test query successful: 2025-06-30 09:06:12
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:06:12
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:06:12
+Attempting pagination query for tab: active at 2025-06-30 09:06:12
+Pagination query successful for tab: active, total records: 1, pages: 1 at 2025-06-30 09:06:12
+Attempting data retrieval query for tab: active, offset: 0, limit: 8 at 2025-06-30 09:06:12
+Data retrieval successful for tab: active, records fetched: 1 at 2025-06-30 09:06:12
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:06:12
+Script started: 2025-06-30 09:12:11
+Database test query successful: 2025-06-30 09:12:11
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:12:11
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:12:11
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:12:11
+Pagination query successful for tab: active, search: '', total records: 1, pages: 1 at 2025-06-30 09:12:11
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:12:11
+Data retrieval successful for tab: active, search: '', records fetched: 1 at 2025-06-30 09:12:11
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:12:11
+Script started: 2025-06-30 09:16:45
+Database test query successful: 2025-06-30 09:16:45
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:16:45
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:16:45
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:16:45
+Pagination query successful for tab: active, search: '', total records: 1, pages: 1 at 2025-06-30 09:16:45
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:16:45
+Data retrieval successful for tab: active, search: '', records fetched: 1 at 2025-06-30 09:16:45
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:16:45
+Script started: 2025-06-30 09:19:28
+Database test query successful: 2025-06-30 09:19:28
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:19:28
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:19:28
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:19:28
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:19:28
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:19:28
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:19:28
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:19:28
+Script started: 2025-06-30 09:20:16
+Database test query successful: 2025-06-30 09:20:16
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:20:16
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:20:16
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:20:16
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:20:16
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:20:16
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:20:16
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:20:16
+Script started: 2025-06-30 09:25:23
+Database test query successful: 2025-06-30 09:25:23
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:25:23
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:25:23
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:25:23
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:25:23
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:25:23
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:25:23
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:25:23
+Script started: 2025-06-30 09:26:50
+Database test query successful: 2025-06-30 09:26:50
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:26:50
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:26:50
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:26:50
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:26:50
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:26:50
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:26:50
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:26:50
+Script started: 2025-06-30 09:28:40
+Database test query successful: 2025-06-30 09:28:40
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:28:40
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:28:40
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:28:40
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:28:40
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:28:40
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:28:40
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:28:40
+Script started: 2025-06-30 09:33:02
+Database test query successful: 2025-06-30 09:33:02
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:33:02
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:33:02
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:33:02
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:33:02
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:33:02
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:33:02
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:33:02
+Script started: 2025-06-30 09:33:06
+Database test query successful: 2025-06-30 09:33:06
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:33:06
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:33:06
+Attempting pagination query for tab: active, search: 'Charan' at 2025-06-30 09:33:06
+Pagination query successful for tab: active, search: 'Charan', total records: 1, pages: 1 at 2025-06-30 09:33:06
+Attempting data retrieval query for tab: active, search: 'Charan', offset: 0, limit: 8 at 2025-06-30 09:33:06
+Data retrieval successful for tab: active, search: 'Charan', records fetched: 1 at 2025-06-30 09:33:06
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:33:06
+Script started: 2025-06-30 09:33:10
+Database test query successful: 2025-06-30 09:33:10
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:33:10
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:33:10
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:33:10
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:33:10
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:33:10
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:33:10
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:33:10
+Script started: 2025-06-30 09:33:25
+Database test query successful: 2025-06-30 09:33:25
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:33:25
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:33:25
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:33:25
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:33:25
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:33:25
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:33:25
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:33:25
+Script started: 2025-06-30 09:33:34
+Database test query successful: 2025-06-30 09:33:34
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:33:34
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:33:34
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:33:34
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:33:34
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:33:34
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:33:34
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:33:34
+Script started: 2025-06-30 09:38:06
+Database test query successful: 2025-06-30 09:38:06
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:38:06
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:38:06
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:38:06
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:38:06
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:38:06
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:38:06
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:38:06
+Script started: 2025-06-30 09:38:31
+Database test query successful: 2025-06-30 09:38:31
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:38:31
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:38:31
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:38:31
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:38:31
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:38:31
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:38:31
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:38:31
+Script started: 2025-06-30 09:38:38
+Database test query successful: 2025-06-30 09:38:38
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 09:38:38
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 09:38:38
+Attempting pagination query for tab: active, search: '' at 2025-06-30 09:38:38
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 09:38:38
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 09:38:38
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 09:38:38
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 09:38:38
+Script started: 2025-06-30 10:37:07
+Database test query successful: 2025-06-30 10:37:07
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 10:37:07
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 10:37:07
+Attempting pagination query for tab: active, search: '' at 2025-06-30 10:37:07
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 10:37:07
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 10:37:07
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 10:37:07
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 10:37:07
+Script started: 2025-06-30 10:40:43
+Database test query successful: 2025-06-30 10:40:43
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 10:40:43
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 10:40:43
+Attempting pagination query for tab: active, search: 'Charan' at 2025-06-30 10:40:43
+Pagination query successful for tab: active, search: 'Charan', total records: 1, pages: 1 at 2025-06-30 10:40:43
+Attempting data retrieval query for tab: active, search: 'Charan', offset: 0, limit: 8 at 2025-06-30 10:40:43
+Data retrieval successful for tab: active, search: 'Charan', records fetched: 1 at 2025-06-30 10:40:43
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 10:40:43
+Script started: 2025-06-30 10:40:47
+Database test query successful: 2025-06-30 10:40:47
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 10:40:47
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 10:40:47
+Attempting pagination query for tab: active, search: '' at 2025-06-30 10:40:47
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 10:40:47
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 10:40:47
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 10:40:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 10:40:47
+Script started: 2025-06-30 10:53:05
+Database test query successful: 2025-06-30 10:53:05
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 10:53:05
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 10:53:05
+Attempting pagination query for tab: active, search: '' at 2025-06-30 10:53:05
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 10:53:05
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 10:53:05
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 10:53:05
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 10:53:05
+Script started: 2025-06-30 11:02:43
+Database test query successful: 2025-06-30 11:02:43
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:02:43
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:02:43
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:02:43
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:02:43
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:02:43
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:02:43
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:02:43
+Script started: 2025-06-30 11:09:25
+Database test query successful: 2025-06-30 11:09:25
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:09:25
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:09:25
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:09:25
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:09:25
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:09:25
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:09:25
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:09:25
+Script started: 2025-06-30 11:11:50
+Database test query successful: 2025-06-30 11:11:50
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:11:50
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:11:50
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:11:50
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:11:50
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:11:50
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:11:50
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:11:50
+Script started: 2025-06-30 11:11:51
+Database test query successful: 2025-06-30 11:11:51
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:11:51
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:11:51
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:11:51
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:11:51
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:11:51
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:11:51
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:11:51
+Script started: 2025-06-30 11:11:51
+Database test query successful: 2025-06-30 11:11:51
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:11:51
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:11:51
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:11:51
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:11:51
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:11:51
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:11:51
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:11:51
+Script started: 2025-06-30 11:12:57
+Database test query successful: 2025-06-30 11:12:57
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:12:57
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:12:57
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:12:57
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:12:57
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:12:57
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:12:57
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:12:57
+Script started: 2025-06-30 11:17:33
+Database test query successful: 2025-06-30 11:17:33
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:17:33
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:17:33
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:17:33
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:17:33
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:17:33
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:17:33
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:17:33
+Script started: 2025-06-30 11:21:01
+Database test query successful: 2025-06-30 11:21:01
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:21:01
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:21:01
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:21:01
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:21:01
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:21:01
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:21:01
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:21:01
+Script started: 2025-06-30 11:38:14
+Database test query successful: 2025-06-30 11:38:14
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:38:14
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:38:14
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:38:14
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:38:14
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:38:14
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:38:14
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:38:14
+Script started: 2025-06-30 11:38:22
+Database test query successful: 2025-06-30 11:38:22
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:38:22
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:38:22
+Attempting pagination query for tab: authorities, search: '' at 2025-06-30 11:38:22
+Pagination query successful for tab: authorities, search: '', total records: 0, pages: 1 at 2025-06-30 11:38:22
+Attempting data retrieval query for tab: authorities, search: '', offset: 0, limit: 8 at 2025-06-30 11:38:22
+Data retrieval successful for tab: authorities, search: '', records fetched: 0 at 2025-06-30 11:38:22
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:38:22
+Script started: 2025-06-30 11:38:24
+Database test query successful: 2025-06-30 11:38:24
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:38:24
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:38:24
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:38:24
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:38:24
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:38:24
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:38:24
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:38:24
+Script started: 2025-06-30 11:38:25
+Database test query successful: 2025-06-30 11:38:25
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:38:25
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:38:25
+Attempting pagination query for tab: inactive, search: '' at 2025-06-30 11:38:25
+Pagination query successful for tab: inactive, search: '', total records: 0, pages: 1 at 2025-06-30 11:38:25
+Attempting data retrieval query for tab: inactive, search: '', offset: 0, limit: 8 at 2025-06-30 11:38:25
+Data retrieval successful for tab: inactive, search: '', records fetched: 0 at 2025-06-30 11:38:25
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:38:25
+Script started: 2025-06-30 11:38:30
+Database test query successful: 2025-06-30 11:38:30
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 11:38:30
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 11:38:30
+Attempting pagination query for tab: active, search: '' at 2025-06-30 11:38:30
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 11:38:30
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 11:38:30
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 11:38:30
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 11:38:30
+Script started: 2025-06-30 12:23:47
+Database test query successful: 2025-06-30 12:23:47
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 12:23:47
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 12:23:47
+Attempting pagination query for tab: active, search: '' at 2025-06-30 12:23:47
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 12:23:47
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 12:23:47
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 12:23:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 12:23:47
+Script started: 2025-06-30 12:25:31
+Database test query successful: 2025-06-30 12:25:31
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 12:25:32
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 12:25:32
+Attempting pagination query for tab: active, search: '' at 2025-06-30 12:25:32
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 12:25:32
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 12:25:32
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 12:25:32
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 12:25:32
+Script started: 2025-06-30 12:48:21
+Database test query successful: 2025-06-30 12:48:21
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 12:48:21
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 12:48:21
+Attempting pagination query for tab: active, search: '' at 2025-06-30 12:48:21
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 12:48:21
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 12:48:21
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 12:48:21
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 12:48:21
+Script started: 2025-06-30 12:51:54
+Database test query successful: 2025-06-30 12:51:54
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 12:51:54
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 12:51:54
+Attempting pagination query for tab: inactive, search: '' at 2025-06-30 12:51:54
+Pagination query successful for tab: inactive, search: '', total records: 0, pages: 1 at 2025-06-30 12:51:54
+Attempting data retrieval query for tab: inactive, search: '', offset: 0, limit: 8 at 2025-06-30 12:51:54
+Data retrieval successful for tab: inactive, search: '', records fetched: 0 at 2025-06-30 12:51:54
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 12:51:54
+Script started: 2025-06-30 12:51:57
+Database test query successful: 2025-06-30 12:51:57
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 12:51:57
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 12:51:57
+Attempting pagination query for tab: active, search: '' at 2025-06-30 12:51:57
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 12:51:57
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 12:51:57
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 12:51:57
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 12:51:57
+Script started: 2025-06-30 13:28:04
+Database test query successful: 2025-06-30 13:28:04
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:28:04
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:28:04
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:28:04
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:28:04
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:28:04
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:28:04
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:28:04
+Script started: 2025-06-30 13:28:56
+Database test query successful: 2025-06-30 13:28:56
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:28:56
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:28:56
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:28:56
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-06-30 13:28:56
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:28:56
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-06-30 13:28:56
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:28:56
+Script started: 2025-06-30 13:29:59
+Database test query successful: 2025-06-30 13:29:59
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:29:59
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:29:59
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:29:59
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:29:59
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:29:59
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:29:59
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:29:59
+Script started: 2025-06-30 13:45:26
+Database test query successful: 2025-06-30 13:45:26
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:45:26
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:45:26
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:45:26
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:45:26
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:45:26
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:45:26
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:45:26
+Script started: 2025-06-30 13:45:52
+Database test query successful: 2025-06-30 13:45:52
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:45:52
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:45:52
+Attempting pagination query for tab: inactive, search: '' at 2025-06-30 13:45:52
+Pagination query successful for tab: inactive, search: '', total records: 0, pages: 1 at 2025-06-30 13:45:52
+Attempting data retrieval query for tab: inactive, search: '', offset: 0, limit: 8 at 2025-06-30 13:45:52
+Data retrieval successful for tab: inactive, search: '', records fetched: 0 at 2025-06-30 13:45:52
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:45:52
+Script started: 2025-06-30 13:45:54
+Database test query successful: 2025-06-30 13:45:54
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:45:54
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:45:54
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:45:54
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:45:54
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:45:54
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:45:54
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:45:54
+Script started: 2025-06-30 13:46:08
+Database test query successful: 2025-06-30 13:46:08
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:46:08
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:46:08
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:46:08
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:46:08
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:46:08
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:46:08
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:46:08
+Script started: 2025-06-30 13:46:13
+Database test query successful: 2025-06-30 13:46:13
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:46:13
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:46:13
+Attempting pagination query for tab: authorities, search: '' at 2025-06-30 13:46:13
+Pagination query successful for tab: authorities, search: '', total records: 0, pages: 1 at 2025-06-30 13:46:13
+Attempting data retrieval query for tab: authorities, search: '', offset: 0, limit: 8 at 2025-06-30 13:46:13
+Data retrieval successful for tab: authorities, search: '', records fetched: 0 at 2025-06-30 13:46:13
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:46:13
+Script started: 2025-06-30 13:46:15
+Database test query successful: 2025-06-30 13:46:15
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:46:15
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:46:15
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:46:15
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:46:15
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:46:15
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:46:15
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:46:15
+Script started: 2025-06-30 13:46:17
+Database test query successful: 2025-06-30 13:46:17
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:46:17
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:46:17
+Attempting pagination query for tab: inactive, search: '' at 2025-06-30 13:46:17
+Pagination query successful for tab: inactive, search: '', total records: 0, pages: 1 at 2025-06-30 13:46:17
+Attempting data retrieval query for tab: inactive, search: '', offset: 0, limit: 8 at 2025-06-30 13:46:17
+Data retrieval successful for tab: inactive, search: '', records fetched: 0 at 2025-06-30 13:46:17
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:46:17
+Script started: 2025-06-30 13:46:18
+Database test query successful: 2025-06-30 13:46:18
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:46:18
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:46:18
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:46:18
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:46:18
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:46:18
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:46:18
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:46:18
+Script started: 2025-06-30 13:46:43
+Database test query successful: 2025-06-30 13:46:43
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:46:43
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:46:43
+Attempting pagination query for tab: inactive, search: '' at 2025-06-30 13:46:43
+Pagination query successful for tab: inactive, search: '', total records: 0, pages: 1 at 2025-06-30 13:46:43
+Attempting data retrieval query for tab: inactive, search: '', offset: 0, limit: 8 at 2025-06-30 13:46:43
+Data retrieval successful for tab: inactive, search: '', records fetched: 0 at 2025-06-30 13:46:43
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:46:43
+Script started: 2025-06-30 13:46:44
+Database test query successful: 2025-06-30 13:46:44
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:46:44
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:46:44
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:46:44
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:46:44
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:46:44
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:46:44
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:46:44
+Script started: 2025-06-30 13:47:18
+Database test query successful: 2025-06-30 13:47:18
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-06-30 13:47:18
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-06-30 13:47:18
+Attempting pagination query for tab: active, search: '' at 2025-06-30 13:47:18
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-06-30 13:47:18
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-06-30 13:47:18
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-06-30 13:47:18
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-06-30 13:47:18
+Script started: 2025-07-08 15:06:38
+Database test query successful: 2025-07-08 15:06:38
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:06:38
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:06:38
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:06:38
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:06:38
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:06:38
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:06:38
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:06:38
+Script started: 2025-07-08 15:10:55
+Database test query successful: 2025-07-08 15:10:55
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:10:55
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:10:55
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:10:55
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:10:55
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:10:55
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:10:55
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:10:55
+Script started: 2025-07-08 15:11:10
+Database test query successful: 2025-07-08 15:11:10
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:11:10
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:11:10
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:11:10
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:11:10
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:11:10
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:11:10
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:11:10
+Script started: 2025-07-08 15:12:46
+Database test query successful: 2025-07-08 15:12:46
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:46
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:46
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:46
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:46
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:46
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:46
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:46
+Script started: 2025-07-08 15:12:48
+Database test query successful: 2025-07-08 15:12:48
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:48
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:48
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:48
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:48
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:48
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:48
+Script started: 2025-07-08 15:12:50
+Database test query successful: 2025-07-08 15:12:50
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:50
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:50
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:50
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:50
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:50
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:50
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:50
+Script started: 2025-07-08 15:12:51
+Database test query successful: 2025-07-08 15:12:51
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:51
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:51
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:51
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:51
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:51
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:51
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:51
+Script started: 2025-07-08 15:12:52
+Database test query successful: 2025-07-08 15:12:52
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:52
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:52
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:52
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:52
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:52
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:52
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:52
+Script started: 2025-07-08 15:12:52
+Database test query successful: 2025-07-08 15:12:52
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:52
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:52
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:52
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:52
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:52
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:52
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:52
+Script started: 2025-07-08 15:12:52
+Database test query successful: 2025-07-08 15:12:52
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:52
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:52
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:52
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:52
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:52
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:52
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:52
+Script started: 2025-07-08 15:12:53
+Database test query successful: 2025-07-08 15:12:53
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:12:53
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:12:53
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:12:53
+Pagination query successful for tab: active, search: '', total records: 3, pages: 1 at 2025-07-08 15:12:53
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:12:53
+Data retrieval successful for tab: active, search: '', records fetched: 3 at 2025-07-08 15:12:53
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:12:53
+Script started: 2025-07-08 15:18:03
+Database test query successful: 2025-07-08 15:18:03
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:18:03
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:18:03
+Employee 203 deleted successfully: 2025-07-08 15:18:03
+Script started: 2025-07-08 15:18:03
+Database test query successful: 2025-07-08 15:18:03
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:18:03
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:18:03
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:18:03
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 15:18:03
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:18:03
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 15:18:03
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:18:03
+Script started: 2025-07-08 15:18:36
+Database test query successful: 2025-07-08 15:18:36
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:18:36
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:18:36
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:18:36
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 15:18:36
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:18:36
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 15:18:36
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:18:36
+Script started: 2025-07-08 15:18:38
+Database test query successful: 2025-07-08 15:18:38
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:18:38
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:18:38
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:18:38
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 15:18:38
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:18:38
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 15:18:38
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:18:38
+Script started: 2025-07-08 15:18:52
+Database test query successful: 2025-07-08 15:18:52
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:18:52
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:18:52
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:18:52
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 15:18:52
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:18:52
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 15:18:52
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:18:52
+Script started: 2025-07-08 15:19:34
+Database test query successful: 2025-07-08 15:19:34
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 15:19:34
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 15:19:34
+Attempting pagination query for tab: active, search: '' at 2025-07-08 15:19:34
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 15:19:34
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 15:19:34
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 15:19:34
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 15:19:34
+Script started: 2025-07-08 16:13:26
+Database test query successful: 2025-07-08 16:13:26
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:13:26
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:13:26
+Attempting pagination query for tab: active, search: '' at 2025-07-08 16:13:26
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 16:13:26
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 16:13:26
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 16:13:26
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:13:26
+Script started: 2025-07-08 16:21:43
+Database test query successful: 2025-07-08 16:21:43
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:21:43
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:21:43
+Attempting pagination query for tab: authorities, search: '' at 2025-07-08 16:21:43
+Pagination query successful for tab: authorities, search: '', total records: 0, pages: 1 at 2025-07-08 16:21:43
+Attempting data retrieval query for tab: authorities, search: '', offset: 0, limit: 8 at 2025-07-08 16:21:43
+Data retrieval successful for tab: authorities, search: '', records fetched: 0 at 2025-07-08 16:21:43
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:21:43
+Script started: 2025-07-08 16:21:45
+Database test query successful: 2025-07-08 16:21:45
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:21:45
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:21:45
+Attempting pagination query for tab: active, search: '' at 2025-07-08 16:21:45
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 16:21:45
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 16:21:45
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 16:21:45
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:21:45
+Script started: 2025-07-08 16:21:46
+Database test query successful: 2025-07-08 16:21:46
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:21:46
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:21:46
+Attempting pagination query for tab: inactive, search: '' at 2025-07-08 16:21:46
+Pagination query successful for tab: inactive, search: '', total records: 0, pages: 1 at 2025-07-08 16:21:46
+Attempting data retrieval query for tab: inactive, search: '', offset: 0, limit: 8 at 2025-07-08 16:21:46
+Data retrieval successful for tab: inactive, search: '', records fetched: 0 at 2025-07-08 16:21:46
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:21:46
+Script started: 2025-07-08 16:21:47
+Database test query successful: 2025-07-08 16:21:47
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:21:47
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:21:47
+Attempting pagination query for tab: authorities, search: '' at 2025-07-08 16:21:47
+Pagination query successful for tab: authorities, search: '', total records: 0, pages: 1 at 2025-07-08 16:21:47
+Attempting data retrieval query for tab: authorities, search: '', offset: 0, limit: 8 at 2025-07-08 16:21:47
+Data retrieval successful for tab: authorities, search: '', records fetched: 0 at 2025-07-08 16:21:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:21:47
+Script started: 2025-07-08 16:21:48
+Database test query successful: 2025-07-08 16:21:48
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:21:48
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:21:48
+Attempting pagination query for tab: active, search: '' at 2025-07-08 16:21:48
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 16:21:48
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 16:21:48
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 16:21:48
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:21:48
+Script started: 2025-07-08 16:50:11
+Database test query successful: 2025-07-08 16:50:11
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:50:11
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:50:11
+Attempting pagination query for tab: active, search: '' at 2025-07-08 16:50:11
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 16:50:11
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 16:50:11
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 16:50:11
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:50:11
+Script started: 2025-07-08 16:50:12
+Database test query successful: 2025-07-08 16:50:12
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 16:50:12
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 16:50:12
+Attempting pagination query for tab: active, search: '' at 2025-07-08 16:50:12
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 16:50:12
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 16:50:12
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 16:50:12
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 16:50:12
+Script started: 2025-07-08 17:00:47
+Database test query successful: 2025-07-08 17:00:47
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 17:00:47
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 17:00:47
+Attempting pagination query for tab: active, search: '' at 2025-07-08 17:00:47
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 17:00:47
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 17:00:47
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 17:00:47
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 17:00:47
+Script started: 2025-07-08 17:18:53
+Database test query successful: 2025-07-08 17:18:53
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 17:18:53
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 17:18:53
+Attempting pagination query for tab: active, search: '' at 2025-07-08 17:18:53
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 17:18:53
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 17:18:53
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 17:18:53
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 17:18:53
+Script started: 2025-07-08 17:19:03
+Database test query successful: 2025-07-08 17:19:03
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 17:19:03
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 17:19:03
+Attempting pagination query for tab: authorities, search: '' at 2025-07-08 17:19:03
+Pagination query successful for tab: authorities, search: '', total records: 0, pages: 1 at 2025-07-08 17:19:03
+Attempting data retrieval query for tab: authorities, search: '', offset: 0, limit: 8 at 2025-07-08 17:19:03
+Data retrieval successful for tab: authorities, search: '', records fetched: 0 at 2025-07-08 17:19:03
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 17:19:03
+Script started: 2025-07-08 17:19:05
+Database test query successful: 2025-07-08 17:19:05
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 17:19:05
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 17:19:05
+Attempting pagination query for tab: active, search: '' at 2025-07-08 17:19:05
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 17:19:05
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 17:19:05
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 17:19:05
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 17:19:05
+Script started: 2025-07-08 17:19:07
+Database test query successful: 2025-07-08 17:19:07
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 17:19:07
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 17:19:07
+Attempting pagination query for tab: active, search: '' at 2025-07-08 17:19:07
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 17:19:07
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 17:19:07
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 17:19:07
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 17:19:07
+Script started: 2025-07-08 17:19:25
+Database test query successful: 2025-07-08 17:19:25
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 17:19:25
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 17:19:25
+Attempting pagination query for tab: active, search: '' at 2025-07-08 17:19:25
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 17:19:25
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 17:19:25
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 17:19:25
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 17:19:25
+Script started: 2025-07-08 17:19:28
+Database test query successful: 2025-07-08 17:19:28
+Available tables: admins, assets, authorities, brands, credentials, departments, employee_details, employees, locations, roles, templates at 2025-07-08 17:19:28
+Existing columns in employee_details: employee_id, full_name, email, phone, date_of_joining, department_id, role_id, location_id, bond_years, created_at, status at 2025-07-08 17:19:28
+Attempting pagination query for tab: active, search: '' at 2025-07-08 17:19:28
+Pagination query successful for tab: active, search: '', total records: 2, pages: 1 at 2025-07-08 17:19:28
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-07-08 17:19:28
+Data retrieval successful for tab: active, search: '', records fetched: 2 at 2025-07-08 17:19:28
+Link target: http://localhost/allyted%20project/admin/add_employee.php at 2025-07-08 17:19:28
+content_templates.php started: 2025-07-22 13:40:18
+content_templates.php started: 2025-07-22 13:40:26
