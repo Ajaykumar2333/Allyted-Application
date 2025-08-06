@@ -2830,3 +2830,10 @@ content_templates.php started: 2025-08-04 12:28:05
 Employees Data: [{"employee_id":"AS0045","full_name":"Ajaykumar","department_id":"14","role_id":"17"},{"employee_id":"AS0046","full_name":"Surya","department_id":"14","role_id":"18"}]
 content_templates.php started: 2025-08-04 12:58:09
 Employees Data: [{"employee_id":"AS0045","full_name":"Ajaykumar","department_id":"14","role_id":"17"},{"employee_id":"AS0046","full_name":"Surya","department_id":"14","role_id":"18"}]
+content_templates.php started: 2025-08-05 06:53:02
+Employees Data: [{"employee_id":"AS0045","full_name":"Ajaykumar","department_id":"14","role_id":"17"},{"employee_id":"AS0046","full_name":"Surya","department_id":"14","role_id":"18"}]
+admin_dashboard.php started: 2025-08-06 06:27:52
+Attempting pagination query for tab: active, search: '' at 2025-08-06 06:27:52
+Pagination query successful for tab: active, total records: 2, pages: 1 at 2025-08-06 06:27:52
+Attempting data retrieval query for tab: active, search: '', offset: 0, limit: 8 at 2025-08-06 06:27:52
+Data retrieval successful for tab: active, records fetched: 2 at 2025-08-06 06:27:52

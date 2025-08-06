@@ -3460,3 +3460,693 @@ Stack trace:
 [04-Aug-2025 12:28:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
 [04-Aug-2025 12:28:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
 [04-Aug-2025 12:58:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 06:49:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 06:49:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 06:53:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 12:23:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:28:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:30:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:30:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:31:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:38:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:50:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:51:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:53:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:53:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 13:53:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:00:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:00:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:00:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:00:58 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:82
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(82): mysqli_stmt->bind_param('sssi', 'Ambedkar Jayant...', '2025-08-01', 'Friday', 'Other', 1)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 82
+[05-Aug-2025 14:01:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:01:00 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:82
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(82): mysqli_stmt->bind_param('sssi', 'Ambedkar Jayant...', '2025-08-01', 'Friday', 'Other', 1)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 82
+[05-Aug-2025 14:01:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:01:09 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:82
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(82): mysqli_stmt->bind_param('sssi', 'Ambedkar Jayant...', '2025-08-01', 'Friday', 'Other', 1)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 82
+[05-Aug-2025 14:01:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:01:29 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:80
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(80): mysqli_stmt->bind_param('ssssi', 'Ambedkar Jayant...', '2025-08-01', 'Friday', 'Other', 'uploads/holiday...', 1)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 80
+[05-Aug-2025 14:03:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:03:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:03:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:03:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:03:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:03:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:07:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:07:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:12:24 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:12:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:12:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:12:51 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 0
+            [name] => Ambedkar
+            [date] => 2025-08-01
+            [type] => Religious
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:12:51 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_0
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_0
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php4C78.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:12:51 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f543b77eb_image_0' for holiday 'Ambedkar'
+[05-Aug-2025 14:12:51 Europe/Berlin] Successfully added holiday: Ambedkar
+[05-Aug-2025 14:12:51 Europe/Berlin] Set success message: 1 holiday(s) saved successfully!
+[05-Aug-2025 14:12:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:19:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:19:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:19:45 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [name] => Ambedkar
+            [date] => 2025-08-01
+            [type] => Religious
+            [action] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 0
+            [name] => New year
+            [date] => 2025-08-14
+            [type] => Other
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:19:45 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_1
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_1
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php9C70.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:19:45 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f6e172821_image_1' for holiday 'Ambedkar'
+[05-Aug-2025 14:19:45 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:130
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(130): mysqli_stmt->bind_param('ssssi', 'Ambedkar', '2025-08-01', 'Friday', 'Religious', 'uploads/holiday...', 3)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 130
+[05-Aug-2025 14:19:50 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:19:50 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [name] => Ambedkar
+            [date] => 2025-08-01
+            [type] => Religious
+            [action] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 0
+            [name] => New year
+            [date] => 2025-08-14
+            [type] => Other
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:19:50 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_1
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_1
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\phpAED0.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:19:50 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f6e623da9_image_1' for holiday 'Ambedkar'
+[05-Aug-2025 14:19:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:130
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(130): mysqli_stmt->bind_param('ssssi', 'Ambedkar', '2025-08-01', 'Friday', 'Religious', 'uploads/holiday...', 3)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 130
+[05-Aug-2025 14:19:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:19:53 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [name] => Ambedkar
+            [date] => 2025-08-01
+            [type] => Religious
+            [action] => delete
+        )
+
+    [1] => Array
+        (
+            [id] => 0
+            [name] => New year
+            [date] => 2025-08-14
+            [type] => Other
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:19:53 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_1
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_1
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\phpBD58.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:19:53 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f6e9d51c1_image_1' for holiday 'Ambedkar'
+[05-Aug-2025 14:19:53 Europe/Berlin] Deleted image 'uploads/holidays/6891f543b77eb_image_0' for holiday ID 3
+[05-Aug-2025 14:19:53 Europe/Berlin] Successfully deleted holiday ID 3
+[05-Aug-2025 14:19:53 Europe/Berlin] Successfully added holiday: New year
+[05-Aug-2025 14:19:53 Europe/Berlin] Set success message: 2 holiday(s) saved successfully!
+[05-Aug-2025 14:19:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:20:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:20:00 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [name] => New year
+            [date] => 2025-08-14
+            [type] => Other
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:20:00 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_0
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_0
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\phpD7C7.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:20:00 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f6f09971c_image_0' for holiday 'New year'
+[05-Aug-2025 14:20:00 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:130
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(130): mysqli_stmt->bind_param('ssssi', 'New year', '2025-08-14', 'Thursday', 'Other', 'uploads/holiday...', 4)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 130
+[05-Aug-2025 14:20:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:20:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:20:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:21:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:21:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:21:15 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [name] => New year
+            [date] => 2025-08-14
+            [type] => Other
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:21:15 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_0
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_0
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\phpFBB6.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:21:15 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f73b5b866_image_0' for holiday 'New year'
+[05-Aug-2025 14:21:15 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:130
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(130): mysqli_stmt->bind_param('ssssi', 'New year', '2025-08-14', 'Thursday', 'Other', 'uploads/holiday...', 4)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 130
+[05-Aug-2025 14:21:22 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:21:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:21:45 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [name] => New year
+            [date] => 2025-08-14
+            [type] => Other
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:21:45 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_0
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_0
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php731A.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:21:45 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f759e2a74_image_0' for holiday 'New year'
+[05-Aug-2025 14:21:45 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:130
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(130): mysqli_stmt->bind_param('ssssi', 'New year', '2025-08-14', 'Thursday', 'Other', 'uploads/holiday...', 4)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 130
+[05-Aug-2025 14:21:52 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:21:52 Europe/Berlin] Received holidays: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [name] => New year
+            [date] => 2025-08-14
+            [type] => Other
+            [action] => 
+        )
+
+)
+
+[05-Aug-2025 14:21:52 Europe/Berlin] Received files: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => image_0
+                )
+
+            [full_path] => Array
+                (
+                    [0] => image_0
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php8CAE.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 3315
+                )
+
+        )
+
+)
+
+[05-Aug-2025 14:21:52 Europe/Berlin] Image uploaded successfully to 'uploads/holidays/6891f7607600f_image_0' for holiday 'New year'
+[05-Aug-2025 14:21:52 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php:130
+Stack trace:
+#0 C:\xampp\htdocs\Allyted Project\includes\content_holidays.php(130): mysqli_stmt->bind_param('ssssi', 'New year', '2025-08-14', 'Thursday', 'Other', 'uploads/holiday...', 4)
+#1 C:\xampp\htdocs\Allyted Project\admin_dashboard.php(132): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\Allyted Project\includes\content_holidays.php on line 130
+[05-Aug-2025 14:26:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:26:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:27:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:27:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:27:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:28:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:28:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:29:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:29:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:34:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:34:52 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:35:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:39:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:39:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:39:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:39:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:40:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:40:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:41:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:47:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:47:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:47:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:47:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:47:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:47:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:48:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:48:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:53:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:54:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:54:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:58:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 14:58:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:05:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:06:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:06:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:06:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:12:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:13:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:13:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:13:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:13:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:14:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:14:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:14:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:14:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:14:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:19:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[05-Aug-2025 15:19:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 06:27:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 06:27:52 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 06:27:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 06:29:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 07:49:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:13:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:20:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:21:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:22:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:24:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:24:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:24:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:24:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:25:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:25:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:25:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:25:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:27:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:28:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:28:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:22 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:29:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:30:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:30:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:33:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:37:01 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:37:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:37:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:38:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:38:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:38:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:38:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:39:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:40:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:40:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:40:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:40:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:40:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:40:53 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:41:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:41:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:41:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:44 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:42:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:43:50 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:44:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:44:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:44:50 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:45:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
+[06-Aug-2025 08:45:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\Allyted Project\admin_dashboard.php on line 11
