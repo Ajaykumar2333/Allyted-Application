@@ -20,42 +20,42 @@ try {
     }
     error_log("Database connection successful");
 
-    $table_check = $mysqli->query("SHOW TABLES LIKE 'learnings'");
+    $table_check = $mysqli->query("SHOW TABLES LIKE 'onboardings'");
     if ($table_check->num_rows == 0) {
-        error_log("Table 'learnings' does not exist");
-        $error_message = "Table 'learnings' does not exist. Please create it with columns: id, purpose, links, duration.";
-        $learnings = [];
+        error_log("Table 'onboardings' does not exist");
+        $error_message = "Table 'onboardings' does not exist. Please create it with columns: id, purpose, links, duration, created_at.";
+        $onboardings = [];
     } else {
-        $total_query = $mysqli->query("SELECT COUNT(*) as total FROM learnings");
+        $total_query = $mysqli->query("SELECT COUNT(*) as total FROM onboardings");
         if ($total_query === false) {
             throw new Exception("Total query failed: " . $mysqli->error);
         }
         $total_row = $total_query->fetch_assoc();
         $total_records = $total_row['total'];
-        error_log("Total records in learnings table: $total_records");
+        error_log("Total records in onboardings table: $total_records");
 
-        $query = "SELECT id, purpose, links, duration FROM learnings ORDER BY id ASC"; // Removed created_at
+        $query = "SELECT id, purpose, links, duration FROM onboardings ORDER BY id ASC";
         $result = $mysqli->query($query);
         if ($result === false) {
             throw new Exception("Fetch query failed: " . $mysqli->error);
         }
-        $learnings = [];
+        $onboardings = [];
         while ($row = $result->fetch_assoc()) {
-            $learnings[] = $row;
+            $onboardings[] = $row;
         }
-        error_log("Fetched " . count($learnings) . " records from learnings table");
-        if (!empty($learnings)) {
-            error_log("Sample record: " . json_encode($learnings[0]));
+        error_log("Fetched " . count($onboardings) . " records from onboardings table");
+        if (!empty($onboardings)) {
+            error_log("Sample record: " . json_encode($onboardings[0]));
         } else {
-            error_log("No records found in learnings table. Total records: $total_records");
-            $error_message = "No learning records found. Please add records or contact your administrator.";
+            error_log("No records found in onboardings table. Total records: $total_records");
+            $error_message = "No onboarding records found. Please add records or contact your administrator.";
         }
         $result->free();
     }
 } catch (Exception $e) {
     error_log("Database error: " . $e->getMessage());
     $error_message = "Database error: " . $e->getMessage() . ". Please check db/config.php.";
-    $learnings = [];
+    $onboardings = [];
 }
 ?>
 
@@ -65,7 +65,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learning Management</title>
+    <title>Onboarding Management</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -126,7 +126,7 @@ try {
         .table-container {
             max-width: 1200px;
             margin: 20px auto;
-            overflow-x: auto; /* Enable horizontal scroll only when needed */
+            overflow-x: auto;
         }
 
         table {
@@ -150,14 +150,13 @@ try {
             color: #333;
             border: 1px solid #d1d5db;
             background-color: #e6ebf3;
-            white-space: nowrap; /* Prevent header text wrapping */
+            white-space: nowrap;
         }
 
-        /* Adjusted column widths for 4 columns */
-        thead th:nth-child(1), tbody td:nth-child(1) { width: 10%; } /* Sl No */
-        thead th:nth-child(2), tbody td:nth-child(2) { width: 30%; } /* Purpose */
-        thead th:nth-child(3), tbody td:nth-child(3) { width: 45%; } /* Links */
-        thead th:nth-child(4), tbody td:nth-child(4) { width: 15%; } /* Duration */
+        thead th:nth-child(1), tbody td:nth-child(1) { width: 10%; }
+        thead th:nth-child(2), tbody td:nth-child(2) { width: 30%; }
+        thead th:nth-child(3), tbody td:nth-child(3) { width: 45%; }
+        thead th:nth-child(4), tbody td:nth-child(4) { width: 15%; }
 
         tbody td {
             padding: 16px;
@@ -165,7 +164,7 @@ try {
             color: #333;
             border: 1px solid #d1d5db;
             background: transparent;
-            white-space: nowrap; /* Prevent cell content wrapping */
+            white-space: nowrap;
         }
 
         tbody tr:nth-child(even) {
@@ -226,7 +225,7 @@ try {
                 max-width: 100%;
             }
             table {
-                min-width: 600px; /* Ensure table is wide enough to require scrolling if needed */
+                min-width: 600px;
             }
             thead th, tbody td {
                 font-size: 12px;
@@ -278,7 +277,7 @@ try {
 
     <div class="mt-32 px-4 sm:px-24">
         <div class="heading">
-            Learnings
+            Onboarding
             <img src="../assets/Books.png" alt="icon" id="book" onerror="this.src='https://via.placeholder.com/70x30'; console.error('Book icon not found');">
         </div>
         <div class="table-container">
@@ -292,19 +291,19 @@ try {
                     </tr>
                 </thead>
                 <tbody>
-                    <?php if (empty($learnings) || !is_array($learnings)): ?>
+                    <?php if (empty($onboardings) || !is_array($onboardings)): ?>
                         <tr>
-                            <td colspan="4" class="text-center text-gray-500 py-8">No learning records found.</td>
+                            <td colspan="4" class="text-center text-gray-500 py-8">No onboarding records found.</td>
                         </tr>
                     <?php else: ?>
                         <?php $row_number = 1; ?>
-                        <?php foreach ($learnings as $index => $learning): ?>
+                        <?php foreach ($onboardings as $index => $onboarding): ?>
                             <tr>
                                 <td><?php echo $row_number; ?></td>
-                                <td><?php echo htmlspecialchars($learning['purpose'] ?? 'N/A'); ?></td>
+                                <td><?php echo htmlspecialchars($onboarding['purpose'] ?? 'N/A'); ?></td>
                                 <td>
                                     <?php
-                                    $url = $learning['links'] ?? '';
+                                    $url = $onboarding['links'] ?? '';
                                     if ($url && !preg_match('/^https?:\/\//i', $url)) {
                                         $url = 'https://' . $url;
                                     }
@@ -315,12 +314,12 @@ try {
                                             🔗 <?php echo htmlspecialchars($url); ?>
                                         </a>
                                     <?php } else {
-                                        error_log("Row $row_number URL invalid: " . ($learning['links'] ?? 'empty'));
+                                        error_log("Row $row_number URL invalid: " . ($onboarding['links'] ?? 'empty'));
                                     ?>
                                         No link
                                     <?php } ?>
                                 </td>
-                                <td><?php echo htmlspecialchars($learning['duration'] ?? 'N/A'); ?></td>
+                                <td><?php echo htmlspecialchars($onboarding['duration'] ?? 'N/A'); ?></td>
                             </tr>
                             <?php $row_number++; ?>
                         <?php endforeach; ?>

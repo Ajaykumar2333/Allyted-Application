@@ -34,7 +34,7 @@ $fixed_holidays = [
     'Republic Day',
     'Ugadi',
     'Good Friday',
-    "DR.B.R. Ambedkar 's Birthday",
+    "Ambedkar Jayanthi",
     'Ramzan',
     'MAY Day',
     'Telangana Formation Day',
